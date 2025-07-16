@@ -1,2 +1,2 @@
 def trans ():
-    print('qkqwnj')
+    print('qkqwnjdd')
